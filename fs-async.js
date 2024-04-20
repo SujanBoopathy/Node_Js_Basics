@@ -26,6 +26,3 @@ readFile('./content/test.txt','utf8',(err,data)=>{
         )
     })
 })
-
-
-
