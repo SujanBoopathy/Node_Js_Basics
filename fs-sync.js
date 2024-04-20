@@ -10,3 +10,5 @@ writeFileSync(
 ,`Here is the result : ${test} and ${test2}`,
 {flag : 'a'}
 );
+
+console.log("write file completed");
